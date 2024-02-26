@@ -29,7 +29,7 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 </a>
 
 <p align='center'>
-  <a href="">
+  <a href="https://www.linkedin.com/in/andreas-meisl/" target="_blank">
     <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png"/></a>
   
   </a>
