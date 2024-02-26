@@ -10,6 +10,11 @@ As an experienced Python developer with over a year of professional experience, 
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact"/></a>
 </p>
 <hr>
+
+<p align='center'>
+  How to reach me: <a href='https://andreas-meisl.my.canva.site/portfolio'>My Portfolio</a>
+</p>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/andreas-meisl/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
