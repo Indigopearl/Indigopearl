@@ -40,6 +40,7 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 </p>
 
 <hr>
+
 ### Key points
 
 <hr>
@@ -202,6 +203,7 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 </a>
 
 <hr>
+
 ### My opensource projects
 
 <hr>
