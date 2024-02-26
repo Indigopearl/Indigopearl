@@ -21,7 +21,7 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <hr>
 
-### Kontact
+### Contact
 
 <p align='center'>
   <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23425564?style=for-the-badge&logo=codementor" alt="Portfolio"></a>
