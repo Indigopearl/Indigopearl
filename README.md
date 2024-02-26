@@ -45,8 +45,6 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 ### Key points
 
-<hr>
-
 
 ## 🛠 Technology Stack
 
