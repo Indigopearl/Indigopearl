@@ -14,10 +14,12 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <hr>
 
-<p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api?username=Indigopearl3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Indigopearl&show_icons=true&count_private=true"/></a>
-  &nbsp;&nbsp;&nbsp; <a href="https://github.com/Indigopearl/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact"/></a>
-</p>
+### My GitHub Stats
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Indigopearl3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Indigopearl&show_icons=true&count_private=true" alt="GitHub Stats Badge"/></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/Indigopearl/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact" alt="Top Languages Badge"/></a>
+</div>
 
 <hr>
 
@@ -32,7 +34,7 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <hr>
 
-## 🛠 Technology Stack
+### 🛠 Technology Stack
 
 ### Programming Languages
 <div align="center">
