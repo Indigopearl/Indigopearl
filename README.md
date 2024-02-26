@@ -13,7 +13,7 @@ As an experienced Python developer with over a year of professional experience, 
 
 <p align='center'>
 <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/My-Portfolio-blue" alt="My Portfolio">
+  <img src="https://img.shields.io/badge/%F0%9F%93%92-Portfolio-blue" alt="Portfolio">
 </a>
 
 <p align='center'>
@@ -22,7 +22,11 @@ As an experienced Python developer with over a year of professional experience, 
    
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:andreas.meisl@gmx.de'>andreas.meisl@gmx.de</a>
+   <a href="   https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Email-blue
+" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%92-Portfolio-blue" alt="Email">
+</a>
+   
 </p>
 
 <hr>
