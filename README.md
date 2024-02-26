@@ -21,16 +21,15 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <hr>
 
+<hr>
+
 <p align='center'>
-  <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/MyPortfolio-removebg-preview.png" alt="Portfolio"></a>
-  &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/andreas-meisl/" target="_blank"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png" alt="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp; <a href="mailto:andreas.meisl@gmx.de"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Email-removebg-preview.png" alt="Email"></a>
+  <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/MyPortfolio-removebg-preview.png" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/andreas-meisl/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:andreas.meisl@gmx.de" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Email-removebg-preview.png" alt="Email"></a>
 </p>
 
 <hr>
-
-
-
 
 ### Key points
 
