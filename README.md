@@ -20,26 +20,36 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
    <a href="https://github.com/Indigopearl/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact"/></a>
 </p>
+
 <hr>
 
 <p align='center'>
-<a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%92-Portfolio-blue" alt="Portfolio">
-</a>
+  <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank" class="button">Portfolio</a>
+</p>
 
 <p align='center'>
-   <a href="">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   
-   </a>
+  <a href="" target="_blank" class="button">LinkedIn</a>
+</p>
+
 <p align='center'>
-   <a href="mailto:andreas.meisl@gmx.de" target="">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7-Email-blue" alt="Email">
-</a>
-   
+  <a href="mailto:andreas.meisl@gmx.de" target="_blank" class="button">Email</a>
 </p>
 
 <hr>
+
+<style>
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  /* Add other button styles like background color, hover effects, etc. */
+}
+</style>
+
 
 ### Key points
 
