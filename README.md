@@ -22,9 +22,9 @@ As an experienced Python developer with over a year of professional experience, 
    
    </a>
 <p align='center'>
-   <a href="   https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Email-blue
-" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%92-Portfolio-blue" alt="Email">
+   <a href="mailto:andreas.meisl@gmx.de" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Email-blue
+" alt="Email">
 </a>
    
 </p>
