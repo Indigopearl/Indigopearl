@@ -207,6 +207,10 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
   <a href="https://www.microsoft.com/windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
   </a>
+  <!-- Ubuntu -->
+  <a href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
+  </a>
   <!-- Linux -->
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
