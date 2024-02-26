@@ -11,9 +11,9 @@ As an experienced Python developer with over a year of professional experience, 
 </p>
 <hr>
 
+<p align='center'>
 <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/My-Portfolio-blue
-" alt="My Portfolio">
+  <img src="https://img.shields.io/badge/My-Portfolio-blue" alt="My Portfolio">
 </a>
 
 <p align='center'>
