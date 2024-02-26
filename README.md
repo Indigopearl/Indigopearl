@@ -21,6 +21,8 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <hr>
 
+### Kontact
+
 <hr>
 
 <p align='center'>
