@@ -24,31 +24,23 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 <hr>
 
 <p align='center'>
-  <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank" class="button">Portfolio</a>
-</p>
+<a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank">
+ <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/MyPortfolio-removebg-preview.png">
+</a>
 
 <p align='center'>
-  <a href="" target="_blank" class="button">LinkedIn</a>
-</p>
-
+  <a href="">
+    <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png"/></a>
+  
+  </a>
 <p align='center'>
-  <a href="mailto:andreas.meisl@gmx.de" target="_blank" class="button">Email</a>
+  <a href="mailto:andreas.meisl@gmx.de" target="">
+ <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Email-removebg-preview.png" alt="Email">
+</a>
+  
 </p>
 
 <hr>
-
-<style>
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-  /* Add other button styles like background color, hover effects, etc. */
-}
-</style>
 
 
 ### Key points
