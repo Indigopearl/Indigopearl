@@ -36,124 +36,220 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 ### Programming Languages
 <div align="center">
-  <a href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <!-- Python -->
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge">
   </a>
-  <a href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
   </a>
-  <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
   </a>
-  <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
   </a>
-  <a href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
   </a>
 </div>
 
 ### Frameworks
 <div align="center">
-  <a href="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+  <!-- React -->
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
   </a>
-  <a href="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django Badge">
-  </a>
-</div>
-
-### Tools
-<div align="center">
-  <a href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
-  </a>
-  <a href="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox Badge">
-  </a>
-  <a href="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Miro-050036?style=for-the-badge&logo=miro&logoColor=F7C922">
-    <img src="https://img.shields.io/badge/Miro-050036?style=for-the-badge&logo=miro&logoColor=F7C922" alt="Miro Badge">
-  </a>
-  <a href="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
-    <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" alt="SonarLint Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Google%20Colab-525252?style=for-the-badge&logo=google-colab&logoColor=F9AB00">
-    <img src="https://img.shields.io/badge/Google%20Colab-525252?style=for-the-badge&logo=google-colab&logoColor=F9AB00" alt="Colab Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=vite&logoColor=B73BFE">
-    <img src="https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=vite&logoColor=B73BFE" alt="Vite Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=671ddf">
-    <img src="https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=671ddf" alt="Axios Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=blue">
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker Badge">
   </a>
 </div>
 
 ### Cloud Platforms
 <div align="center">
-  <a href="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS Badge">
-  </a>
-  <a href="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
+   
+  <!-- Digital Ocean -->
+  <a href="https://www.digitalocean.com/">
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean Badge">
   </a>
+
+  <!-- Amazon AWS -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS Badge">
+  </a>
+
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge">
+  </a>
+
+  <!-- IONOS -->
+  <a href="https://www.ionos.com/">
+    <img src="https://img.shields.io/badge/IONOS-%23003D8F?style=for-the-badge&logo=ionos&logoColor=white" alt="Google Cloud Badge">
+  </a>
+
 </div>
 
 ### Databases
 <div align="center">
-  <a href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
   </a>
-  <a href="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   </a>
-  <a href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge">
+  
+</div>
+
+### CMS
+<div align="center">
+  <!-- WordPress -->
+  <a href="https://wordpress.org/">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge">
+  </a>
+</div>
+
+### Tools
+<div align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
+  </a>
+  
+  <!-- VirtualBox -->
+  <a href="https://www.virtualbox.org/">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox Badge">
+  </a>
+  
+  <!-- VMware -->
+  <a href="https://www.vmware.com/">
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge">
+  </a>
+  
+  <!-- Trello -->
+  <a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
+  </a>
+  
+  <!-- Miro -->
+  <a href="https://miro.com/">
+    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro Badge">
+  </a>
+  
+  <!-- SonarLint -->
+  <a href="https://www.sonarlint.org/">
+    <img src="https://img.shields.io/badge/SonarLint-26638a?style=for-the-badge&logo=sonarlint&logoColor=white" alt="SonarLint Badge">
+  </a>
+  
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge">
+  </a>
+  
+  <!-- Colab -->
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=525252" alt="Colab Badge">
+  </a>
+  
+  <!-- Vite -->
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge">
+  </a>
+  
+  <!-- Swagger -->
+  <a href="https://swagger.io/">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
+  </a>
+  
+  <!-- Sass -->
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge">
+  </a>
+  
+  <!-- Redis -->
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
+  </a>
+  
+  <!-- Axios -->
+  <a href="https://axios-http.com/">
+    <img src="https://img.shields.io/badge/axios-007ACC?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge">
+  </a>
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  </a>
+</div>
+
+### Operating Systems
+
+<div align="center">
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+  </a>
+  <!-- macOS -->
+  <a href="https://www.apple.com/macos">
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge">
+  </a>
+  <!-- iOS -->
+  <a href="https://www.apple.com/ios">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS Badge">
+  </a>
+  <!-- Android -->
+  <a href="https://www.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
   </a>
 </div>
 
 ### Others
 <div align="center">
-  <a href="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <!-- ChatGPT -->
+  <a href="https://openai.com/chatgpt">
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge">
   </a>
-  <a href="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=google-bard&logoColor=white">
-    <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=google-bard&logoColor=white" alt="Google Bard Badge">
+  
+  <!-- Google Bard -->
+  <a href="https://about.google/products/">
+    <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff" alt="Google Bard Badge">
   </a>
-  <a href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  
+  <!-- Slack -->
+  <a href="https://slack.com/">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
   </a>
-  <a href="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+  
+  <!-- Zoom -->
+  <a href="https://zoom.us/">
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Badge">
   </a>
-  <a href="https://img.shields.io/badge/Jitsi-97979A?style=for-the-badge&logo=jitsi&logoColor=white">
-    <img src="https://img.shields.io/badge/Jitsi-97979A?style=for-the-badge&logo=jitsi&logoColor=white" alt="Jitsi Badge">
+  
+  <!-- Jitsi -->
+  <a href="https://jitsi.org/">
+    <img src="https://img.shields.io/badge/Jitsi-%2397979A?style=for-the-badge&logo=jitsi&logoColor=white" alt="Jitsi Badge">
   </a>
 </div>
 
