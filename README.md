@@ -130,7 +130,11 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  
+
+  <!-- Canva -->
+  <a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="GitHub Badge">
+   
   <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
