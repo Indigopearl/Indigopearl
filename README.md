@@ -16,24 +16,19 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
 
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=Indigopearl3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Indigopearl&show_icons=true&count_private=true"/></a>
-  <a href="https://github.com/Indigopearl/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact"/></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/Indigopearl/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indigopearl&layout=compact"/></a>
 </p>
 
 <hr>
 
 <p align='center'>
-  <a href="https://andreas-meisl.my.canva.site/portfolio" target="_blank">
-    <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/MyPortfolio-removebg-preview.png">
-  </a>
-  <a href="https://www.linkedin.com/in/andreas-meisl/" target="_blank">
-    <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png">
-  </a>
-  <a href="mailto:andreas.meisl@gmx.de" target="">
-    <img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Email-removebg-preview.png" alt="Email">
-  </a>
+  <a href="https://andreas-meisl.my.canva.site/portfolio"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/MyPortfolio-removebg-preview.png" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/andreas-meisl/"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Linkedin-removebg-preview.png" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:andreas.meisl@gmx.de"><img src="https://github.com/Indigopearl/Indigopearl/blob/master/images/icons/Email-removebg-preview.png" alt="Email"></a>
 </p>
 
 <hr>
+
 
 
 
