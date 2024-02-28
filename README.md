@@ -1,6 +1,6 @@
 ### Hi, I'm Andreas! 👋
 
-As an experienced Python developer with over a year of professional experience, I possess excellent knowledge of backend development, specializing in monolithic, microservice, and serverless architectures. My journey in tech has been deeply rooted in the open-source community, where I actively contribute to various projects, continuously honing my skills and understanding of best practices.
+As an prospective Python developer with over a year of professional experience, I possess excellent knowledge of backend development, specializing in monolithic, microservice, and serverless architectures. My journey in tech has been deeply rooted in the open-source community, where I actively contribute to various projects, continuously honing my skills and understanding of best practices.
 
 With a background in electrical engineering and a fervent enthusiasm for IT, I've dedicated myself to the digital transformation. Proficient in Python, Cloud technologies, and web development, I'm driven to tackle complex challenges head-on. My analytical approach and collaborative spirit empower me to craft innovative solutions, driving forward the evolution of the tech industry.
 
