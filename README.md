@@ -1,16 +1,18 @@
 ### Hi, I'm Andreas! 👋
 
-As an prospective Python developer with over a year of professional experience, I possess excellent knowledge of backend development, specializing in monolithic, microservice, and serverless architectures. My journey in tech has been deeply rooted in the open-source community, where I actively contribute to various projects, continuously honing my skills and understanding of best practices.
+I'm a **Cloud Engineer** with hands-on experience across the full lifecycle of modern cloud infrastructure — from **infrastructure as code** and **CI/CD automation** to **monitoring**, **security**, and **scalable cloud-native applications**.
 
-With a background in electrical engineering and a fervent enthusiasm for IT, I've dedicated myself to the digital transformation. Proficient in Python, Cloud technologies, and web development, I'm driven to tackle complex challenges head-on. My analytical approach and collaborative spirit empower me to craft innovative solutions, driving forward the evolution of the tech industry.
+My toolkit spans a range of cloud and DevOps technologies, including **Terraform** for infrastructure as code, **Docker** and **ECS** for containerized workloads, and **Bitbucket Pipelines** for streamlined CI/CD. I work extensively with **AWS services** like **Lambda**, **IAM**, and **SSM**, and leverage observability tools such as **Kibana** and **Datadog** for real-time monitoring and diagnostics.
 
-🚀 On a quest for innovation and perpetual growth in Python development! Passionate about creative problem-solving and committed to excellence, I aspire to push the boundaries of Python development further.
+With a background in electrical engineering and a passion for technology, I continuously explore ways to improve performance, reliability, and maintainability in cloud-based systems. While my professional focus is on AWS and DevOps tooling, I remain an active contributor to the **open-source** community and enjoy building things in my free time — especially in **Python**.
 
-🔍 As a Python developer with a strong foundation in web development and a keen eye for detail, I'm constantly seeking new challenges to deepen my expertise and contribute to pioneering solutions.
+🔧 Always learning. Always building. Always curious.  
+☁️ Cloud by day, code by night.
 
-💡 My commitment to continuous learning and my ability to tackle complex problems with innovative thinking make me a valuable team member. Professionalism, punctuality, and a willingness to take ownership reflect my work ethic, forming the cornerstone of my professional mindset.
+---
 
-🌍 Actively seeking full-time opportunities in Python development, I'm eager to bring my skills and passion for technology to a dynamic team. Flexible in terms of location and ready to hit the ground running, I look forward to unleashing my full potential and achieving greatness together!
+### 🧭 Exploring Cloud Technologies & Open Source Projects
+
 
 <hr>
 
@@ -114,6 +116,42 @@ With a background in electrical engineering and a fervent enthusiasm for IT, I'v
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   </a>
   
+</div>
+
+### Infrastructure as Code
+<div align="center">
+  <!-- CloudFormation -->
+  <a href="https://aws.amazon.com/cloudformation/">
+    <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation Badge">
+  </a>
+  
+</div>
+
+### CI/CD & Automation
+<div align="center">
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge">
+  </a>
+
+</div>
+
+### Monitoring & Observability
+<div align="center">
+  <!-- CloudWatch -->
+  <a href="https://aws.amazon.com/cloudwatch/">
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch Badge">
+  </a>
+
+</div>
+
+### Security & Secrets
+<div align="center">
+  <!-- AWS Secrets Manager -->
+  <a href="https://aws.amazon.com/secrets-manager/">
+    <img src="https://img.shields.io/badge/AWS_Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Secrets Manager Badge">
+  </a>
+
 </div>
 
 ### CMS
